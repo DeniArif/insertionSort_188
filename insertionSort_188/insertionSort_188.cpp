@@ -58,3 +58,7 @@ void insertionsort() {
 	}
 
 }
+
+void display() {
+
+}
