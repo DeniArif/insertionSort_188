@@ -60,5 +60,6 @@ void insertionsort() {
 }
 
 void display() {
-
+	cout << endl;
+	cout << "\n=======================" << endl;
 }
