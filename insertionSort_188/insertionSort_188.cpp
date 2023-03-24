@@ -61,5 +61,7 @@ void insertionsort() {
 
 void display() {
 	cout << endl;
-	cout << "\n=======================" << endl;
+	cout << "\n=============================" << endl;
+	cout << " Element Array Telah Tersusun" << endl;
+	cout << "===============================" << endl;
 }
