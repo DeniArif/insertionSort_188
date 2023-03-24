@@ -53,7 +53,7 @@ void insertionsort() {
 
 		cout << "\nPass " << 1 << ": ";
 		for (int k = 0; k < n; k++) {
-
+			cout << arr[k] << " ";
 		}
 	}
 
