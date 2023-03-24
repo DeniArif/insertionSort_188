@@ -44,6 +44,17 @@ void insertionsort() {
 
 		while (j >= 0 && arr[j] > temp)
 
+		{
+			arr[j + 1] = arr[j];
+			j--;
+		}
+
+		arr[j + 1] = temp;
+
+		cout << "\nPass " << 1 << ": ";
+		for (int k = 0; k < n; k++) {
+
+		}
 	}
 
 }
